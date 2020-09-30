@@ -1,4 +1,4 @@
-AppSite
+AppSite(TEMPLATE FOR APPS)
 ===========================
 
 
